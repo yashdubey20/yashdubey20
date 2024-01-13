@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdubey20&label=Profile%20views&color=0e75b6&style=flat" alt="yashdubey20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdubey20" alt="yashdubey20" /></a> </p>
-
 - 📫 How to reach me **yashdubey20@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1pC2wrgrsC24MU-8p0ipIdnpb9hXp179D](https://drive.google.com/drive/folders/1pC2wrgrsC24MU-8p0ipIdnpb9hXp179D)
